@@ -16,13 +16,14 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
-				"GitHub.codespaces",
+		"alefragnani.project-manager",
+		"GitHub.codespaces",
 		"GitHub.remotehub",
 		"ms-vscode-remote.remote-containers",
 		"ms-vscode-remote.remote-ssh-edit",
 		"ms-vscode-remote.remote-ssh",
-		"alefragnani.project-manager",
-"ms-vscode.remote-repositories",
-"tinkertrain.theme-panda"
+		"ms-vscode.remote-repositories",
+		"tinkertrain.theme-panda",
+		"wayou.vscode-todo-highlight"
 	]
 }
